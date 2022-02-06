@@ -20,12 +20,14 @@ After noticing that most of them showed the same employees multiple times due to
 o	This shows that the majority of the employees retiring have been with the company for a long time that they moved to different branches of the company or were able to be promoted to different rolls. 
 ## 3.	Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 **o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+
 •	If we look at the data from Retiring Titles, we see that the majority of the future retirees are coming from senior positions. Senior Engineer have 25,916 employees retiring, and Senior Staff have 24,926 employees retiring.
 
 ![retiring_titles](https://user-images.githubusercontent.com/92958939/152667312-bc61b1d4-e810-4183-807e-6d1a163e61b8.png)
 
 
 **o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
 The only department that is low in retirement-ready employees is Manager. That department only has two employees retiring soon. But with that role, there will be more people that will apply to take over that position that it will be easy to fill those two role. 
 There is enough retirement-ready employees in most of the departments. The problem we see happening is that there is not enough employees to take over all the positions that will be retiring soon. 
 In order to fill those roles, we will have to recruit employees from the junior position. For example, Engineer and Staff titles, to participate in the mentorship program. But even if we add the junior positions for the engineer department, 1,090 for Assistant Engineer and 9,285 for engineer that only makes 10,375 and we have 25,916 roles to fill. We also have to consider that not all the junior employees will either be ready or recommended for the senior position. 
