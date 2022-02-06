@@ -261,7 +261,7 @@ SELECT ri.emp_no,
 	ri.first_name,
 	ri.last_name,
 	di.dept_name
---INTO sales_retirement_info
+INTO sales_retirement_info
 FROM retirement_info AS ri
 INNER JOIN dept_info AS di
 ON (ri.emp_no = di.emp_no)
@@ -272,7 +272,7 @@ SELECT ri.emp_no,
 	ri.first_name,
 	ri.last_name,
 	di.dept_name
---INTO sales_development_retirement_info
+INTO sales_development_retirement_info
 FROM retirement_info AS ri
 INNER JOIN dept_info AS di
 ON (ri.emp_no = di.emp_no)
